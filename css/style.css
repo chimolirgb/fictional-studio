@@ -1,61 +1,71 @@
-.container{
-    width: 200%;
-    margin-left: 30px;
-    
-}
+
+*{ overflow-x: hidden;}
+
 .header{
     background-image: url(../images/h_img.jpg);
     background-repeat: no-repeat;
     background-position: center;
+    background-size: cover;
     margin: auto;
-    width: 2000px;
-    height: 1050px;
-    text-align-last: center;
-    padding: 60px 0;
+    /* height: 1050px; */
+    text-align: center;
+    padding: 50px 0;
   color:white
 
 }
+.card1{background-color: springgreen;
 
+}
 .contact-us{
     background-image: url(../images/c_image.jpg);
-    width: 5000px;
-    height: 650px;
+    background-size: cover;
+    /* width: 5000px; */
+    min-height: 60vh;
     margin: auto;
     align-items: center;
     color: white;
-}
-        #logo{
-        position: absolute;
-        bottom: 60%;
-        left: 60%;
-        transform: translate(-50%,-50%);
-        text-align: center;
-        color: white;
-}
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        /* width: 120%; */
+      }
+
+
 .About{
     text-align: center;
-    font-size: x-small;
+    font-size: small;
    
 }
-.card2{
+#services{
+    background-image: url(../images/s_image.jpg);
     color: white;
-    
+    min-height: 40vh;
+    padding: 30px;
 }
+
+    
+
 .d{
     font-size: x-small;
     
 }
+
 .D{
-    font-size: x-small;
-   
-    
+    font-size: x-small;   
 }
+
 .p{
     font-size: x-small;
     
 }
-.z{
-    text-align: center;
-    padding-left: 800px;
-    /* transform:translate(-10%,-10%) */
+
+
+
+#g{
+    /* width: 400px; */
+    /* height: 130px; */
+   text-align: justify;
+    margin: 20%;
+    background-color: rgba(113, 118, 122, 0.034);
+    color: white;
 }
