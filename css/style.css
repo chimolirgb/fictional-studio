@@ -7,13 +7,12 @@
     background-image: url(../images/h_img.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    background-attachment: fixed;
-    background-position: center;
+    margin: auto;
     width: 2000px;
     height: 1050px;
     text-align-last: center;
     padding: 60px 0;
-  border: 3px white
+  color:white
 
 }
 
@@ -23,16 +22,40 @@
     height: 650px;
     margin: auto;
     align-items: center;
+    color: white;
 }
         #logo{
         position: absolute;
-        bottom: 50%;
-        left: 50%;
+        bottom: 60%;
+        left: 60%;
         transform: translate(-50%,-50%);
         text-align: center;
         color: white;
 }
 .About{
     text-align: center;
+    font-size: x-small;
+   
 }
-
+.card2{
+    color: white;
+    
+}
+.d{
+    font-size: x-small;
+    
+}
+.D{
+    font-size: x-small;
+   
+    
+}
+.p{
+    font-size: x-small;
+    
+}
+.z{
+    text-align: center;
+    padding-left: 800px;
+    /* transform:translate(-10%,-10%) */
+}
