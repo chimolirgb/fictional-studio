@@ -7,40 +7,37 @@
     background-position: center;
     background-size: cover;
     margin: auto;
-    /* height: 1050px; */
+   min-height: 80vh;
     text-align: center;
-    padding: 50px 0;
+    padding: 40px ;
   color:white
 
 }
-.card1{background-color: springgreen;
 
-}
 .contact-us{
     background-image: url(../images/c_image.jpg);
     background-size: cover;
-    /* width: 5000px; */
-    min-height: 60vh;
-    margin: auto;
+    width: 1400px;
+height: 2oopx;
     align-items: center;
     color: white;
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        /* width: 120%; */
+       
       }
 
 
 .About{
     text-align: center;
     font-size: small;
-   
+}
+
+.images{
+   margin-left: 280px;
 }
 #services{
     background-image: url(../images/s_image.jpg);
     color: white;
-    min-height: 40vh;
-    padding: 30px;
+    min-height: 50vh;
+    padding: 130px;
 }
 
     
@@ -59,13 +56,12 @@
     
 }
 
-
-
 #g{
-    /* width: 400px; */
-    /* height: 130px; */
-   text-align: justify;
+    width: 800px; 
+    height: 200px;
+   text-align: center;
     margin: 20%;
     background-color: rgba(113, 118, 122, 0.034);
     color: white;
+    padding: 30px;
 }
