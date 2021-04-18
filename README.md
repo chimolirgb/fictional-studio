@@ -28,7 +28,7 @@ https://github.com/chimolirgb/fictional-studio
 6. Git
 
 # Live Site
-https://github.com/chimolirgb/Landing_page_portfolio.git
+https://chimolirgb.github.io/fictional-studio/
 
 # Licence
 The project is under the [MIT](LICENSE) license
