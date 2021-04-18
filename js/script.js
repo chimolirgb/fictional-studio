@@ -61,3 +61,14 @@ $("#hover2").hover(function(){
                             $("#imgtext8").toggle();
                             })                     
 });
+
+$(document).ready(function(){
+    $("#zz").click(function(){
+        $("#message").show();
+        $("#zz").hide();  
+    });
+    $("#message").click(function(){
+       $("#zz").show();
+       $("#message").hide();
+   });
+});
