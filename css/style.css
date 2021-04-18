@@ -42,18 +42,15 @@ height: 2oopx;
 
     
 
-.d{
-    font-size: x-small;
-    
+#d{
+    display: none; 
+}
+#D{
+    display: none;
 }
 
-.D{
-    font-size: x-small;   
-}
-
-.p{
-    font-size: x-small;
-    
+#r{
+    display: none;
 }
 
 #g{
