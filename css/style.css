@@ -17,10 +17,11 @@
 .contact-us{
     background-image: url(../images/c_image.jpg);
     background-size: cover;
-    width: 1400px;
-height: 2oopx;
+    width: 2000px;
+    height: 800px;
     align-items: center;
     color: white;
+
        
       }
 
@@ -31,7 +32,7 @@ height: 2oopx;
 }
 
 .images{
-   margin-left: 280px;
+    padding:10%;        
 }
 #services{
     background-image: url(../images/s_image.jpg);
