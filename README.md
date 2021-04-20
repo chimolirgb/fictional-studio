@@ -1,7 +1,7 @@
  # PROJECT NAME
   Fictional-studio
 
-# Author
+## Author
 # Lucy Chimoli
 
 # Description
@@ -18,6 +18,9 @@ To access this project on your local files, you can clone it using these steps
 https://github.com/chimolirgb/fictional-studio
 1. This will clone the repositoty into your local folder
 1. __Enjoy :)__
+
+## Known Bugs
+* mail chimp API does not function properly, Will redirect you after you have Contacted uS
 
 # Technologies Used
 1. HTML
