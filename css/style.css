@@ -31,7 +31,8 @@ height: 2oopx;
 }
 
 .images{
-   margin-left: 280px;
+   /* margin-left: 280px; */
+   margin: auto;
 }
 #services{
     background-image: url(../images/s_image.jpg);
